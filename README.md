@@ -8,3 +8,4 @@
 - 念の為にゲームディレクトリを`C:/Users\xxxx\AppData\Roaming\.minecraft-1.12.2`のようにし、保存して起動
 - `windowsマーク+R`でファイル名を指定して実行を開き`@appdata@`と入力
 - .minecraft-1.12.2ファイルの中のmodsフォルダに中身を全部入れる
+
